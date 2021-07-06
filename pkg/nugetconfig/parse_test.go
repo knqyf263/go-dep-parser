@@ -1,4 +1,4 @@
-package nuget
+package nugetconfig
 
 import (
 	"os"
@@ -19,20 +19,8 @@ func TestParse(t *testing.T) {
 		want []types.Library
 	}{
 		{
-			file: "testdata/packages_lock_simple.json",
-			want: NuGetSimple,
-		},
-		{
-			file: "testdata/packages_lock_subdependencies.json",
-			want: NuGetSubDependencies,
-		},
-		{
-			file: "testdata/packages_lock_multi.json",
-			want: NuGetMultiTarget,
-		},
-		{
-			file: "testdata/packages_lock_legacy.json",
-			want: NuGetLegacy,
+			file: "testdata/packages.config",
+			want: NuGetPackagesConfig,
 		},
 	}
 
