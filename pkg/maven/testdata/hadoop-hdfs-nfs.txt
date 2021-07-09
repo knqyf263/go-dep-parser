@@ -1,0 +1,114 @@
+
+The following files have been resolved:
+   org.apache.hadoop:hadoop-annotations:jar:3.4.0-SNAPSHOT:provided[36m -- module hadoop.annotations[0;1;33m (auto)[m
+   org.apache.hadoop:hadoop-auth:jar:3.4.0-SNAPSHOT:provided[36m -- module hadoop.auth[0;1;33m (auto)[m
+   org.slf4j:slf4j-api:jar:1.7.30:provided[36m -- module org.slf4j[0;1m [auto][m
+   org.apache.httpcomponents:httpclient:jar:4.5.13:provided[36m -- module org.apache.httpcomponents.httpclient[0;1m [auto][m
+   org.apache.httpcomponents:httpcore:jar:4.4.13:provided[36m -- module org.apache.httpcomponents.httpcore[0;1m [auto][m
+   com.nimbusds:nimbus-jose-jwt:jar:9.8.1:compile[36m -- module com.nimbusds.jose.jwt[0;1m [auto][m
+   com.github.stephenc.jcip:jcip-annotations:jar:1.0-1:compile[36m -- module jcip.annotations[0;1;33m (auto)[m
+   net.minidev:json-smart:jar:2.4.2:provided[36m -- module json.smart[0;1;33m (auto)[m
+   net.minidev:accessors-smart:jar:2.4.2:provided[36m -- module accessors.smart[0;1;33m (auto)[m
+   org.ow2.asm:asm:jar:5.0.4:provided[36m -- module asm[0;1;33m (auto)[m
+   org.apache.zookeeper:zookeeper:jar:3.5.6:provided[36m -- module zookeeper[0;1;33m (auto)[m
+   org.apache.curator:curator-framework:jar:4.2.0:provided[36m -- module curator.framework[0;1;33m (auto)[m
+   org.apache.kerby:kerb-simplekdc:jar:1.0.1:provided[36m -- module kerb.simplekdc[0;1;33m (auto)[m
+   org.apache.kerby:kerb-client:jar:1.0.1:provided[36m -- module kerb.client[0;1;33m (auto)[m
+   org.apache.kerby:kerby-config:jar:1.0.1:provided[36m -- module kerby.config[0;1;33m (auto)[m
+   org.apache.kerby:kerb-common:jar:1.0.1:provided[36m -- module kerb.common[0;1;33m (auto)[m
+   org.apache.kerby:kerb-crypto:jar:1.0.1:provided[36m -- module kerb.crypto[0;1;33m (auto)[m
+   org.apache.kerby:kerb-util:jar:1.0.1:provided[36m -- module kerb.util[0;1;33m (auto)[m
+   org.apache.kerby:token-provider:jar:1.0.1:provided[36m -- module token.provider[0;1;33m (auto)[m
+   org.apache.kerby:kerb-admin:jar:1.0.1:provided[36m -- module kerb.admin[0;1;33m (auto)[m
+   org.apache.kerby:kerb-server:jar:1.0.1:provided[36m -- module kerb.server[0;1;33m (auto)[m
+   org.apache.kerby:kerb-identity:jar:1.0.1:provided[36m -- module kerb.identity[0;1;33m (auto)[m
+   org.apache.kerby:kerby-xdr:jar:1.0.1:provided[36m -- module kerby.xdr[0;1;33m (auto)[m
+   org.apache.hadoop:hadoop-nfs:jar:3.4.0-SNAPSHOT:provided[36m -- module hadoop.nfs[0;1;33m (auto)[m
+   io.netty:netty-all:jar:4.1.61.Final:compile[36m -- module io.netty.all[0;1m [auto][m
+   org.apache.hadoop:hadoop-hdfs:jar:3.4.0-SNAPSHOT:compile[36m -- module hadoop.hdfs[0;1;33m (auto)[m
+   org.eclipse.jetty:jetty-util-ajax:jar:9.4.40.v20210413:compile[36m -- module org.eclipse.jetty.util.ajax[0;1m [auto][m
+   io.netty:netty:jar:3.10.6.Final:compile[36m -- module netty[0;1;33m (auto)[m
+   org.fusesource.leveldbjni:leveldbjni-all:jar:1.8:compile[36m -- module leveldbjni.all[0;1;33m (auto)[m
+   com.fasterxml.jackson.core:jackson-databind:jar:2.10.5.1:compile[36m -- module com.fasterxml.jackson.databind[m
+   com.fasterxml.jackson.core:jackson-core:jar:2.10.5:compile[36m -- module com.fasterxml.jackson.core[m
+   org.apache.hadoop:hadoop-hdfs-client:jar:3.4.0-SNAPSHOT:provided[36m -- module hadoop.hdfs.client[0;1;33m (auto)[m
+   com.squareup.okhttp:okhttp:jar:2.7.5:provided[36m -- module okhttp[0;1;33m (auto)[m
+   com.squareup.okio:okio:jar:1.6.0:provided[36m -- module okio[0;1;33m (auto)[m
+   com.fasterxml.jackson.core:jackson-annotations:jar:2.10.5:compile[36m -- module com.fasterxml.jackson.annotation[m
+   org.apache.hadoop:hadoop-hdfs:test-jar:tests:3.4.0-SNAPSHOT:test[36m -- module hadoop.hdfs[0;1;33m (auto)[m
+   org.apache.hadoop:hadoop-common:jar:3.4.0-SNAPSHOT:provided[36m -- module hadoop.common[0;1;33m (auto)[m
+   org.apache.hadoop.thirdparty:hadoop-shaded-protobuf_3_7:jar:1.1.0-SNAPSHOT:provided
+   com.google.guava:guava:jar:27.0-jre:provided[36m -- module com.google.common[0;1m [auto][m
+   com.google.guava:failureaccess:jar:1.0:provided[36m -- module failureaccess[0;1;33m (auto)[m
+   com.google.guava:listenablefuture:jar:9999.0-empty-to-avoid-conflict-with-guava:provided[36m -- module listenablefuture[0;1;33m (auto)[m
+   org.checkerframework:checker-qual:jar:2.5.2:provided[36m -- module checker.qual[0;1;33m (auto)[m
+   com.google.j2objc:j2objc-annotations:jar:1.1:provided[36m -- module j2objc.annotations[0;1;33m (auto)[m
+   org.codehaus.mojo:animal-sniffer-annotations:jar:1.17:provided[36m -- module animal.sniffer.annotations[0;1;33m (auto)[m
+   org.apache.commons:commons-math3:jar:3.1.1:provided[36m -- module commons.math3[0;1;33m (auto)[m
+   commons-net:commons-net:jar:3.6:provided[36m -- module commons.net[0;1;33m (auto)[m
+   commons-collections:commons-collections:jar:3.2.2:provided[36m -- module commons.collections[0;1;33m (auto)[m
+   jakarta.activation:jakarta.activation-api:jar:1.2.1:provided[36m -- module jakarta.activation[0;1m [auto][m
+   org.eclipse.jetty:jetty-servlet:jar:9.4.40.v20210413:provided[36m -- module org.eclipse.jetty.servlet[0;1m [auto][m
+   org.eclipse.jetty:jetty-security:jar:9.4.40.v20210413:provided[36m -- module org.eclipse.jetty.security[0;1m [auto][m
+   org.eclipse.jetty:jetty-webapp:jar:9.4.40.v20210413:provided[36m -- module org.eclipse.jetty.webapp[0;1m [auto][m
+   org.eclipse.jetty:jetty-xml:jar:9.4.40.v20210413:provided[36m -- module org.eclipse.jetty.xml[0;1m [auto][m
+   javax.servlet.jsp:jsp-api:jar:2.1:provided[36m -- module jsp.api[0;1;33m (auto)[m
+   com.sun.jersey:jersey-servlet:jar:1.19:provided[36m -- module jersey.servlet[0;1;33m (auto)[m
+   com.sun.jersey:jersey-json:jar:1.19:provided[36m -- module jersey.json[0;1;33m (auto)[m
+   org.codehaus.jettison:jettison:jar:1.1:provided[36m -- module jettison[0;1;33m (auto)[m
+   com.sun.xml.bind:jaxb-impl:jar:2.2.3-1:provided[36m -- module jaxb.impl[0;1;33m (auto)[m
+   javax.xml.bind:jaxb-api:jar:2.2.11:provided[36m -- module jaxb.api[0;1;33m (auto)[m
+   org.codehaus.jackson:jackson-core-asl:jar:1.9.13:provided[36m -- module jackson.core.asl[0;1;33m (auto)[m
+   org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13:provided[36m -- module jackson.mapper.asl[0;1;33m (auto)[m
+   org.codehaus.jackson:jackson-jaxrs:jar:1.9.13:provided[36m -- module jackson.jaxrs[0;1;33m (auto)[m
+   org.codehaus.jackson:jackson-xc:jar:1.9.13:provided[36m -- module jackson.xc[0;1;33m (auto)[m
+   commons-beanutils:commons-beanutils:jar:1.9.4:provided[36m -- module commons.beanutils[0;1;33m (auto)[m
+   org.apache.commons:commons-configuration2:jar:2.1.1:provided[36m -- module commons.configuration2[0;1;33m (auto)[m
+   org.apache.commons:commons-lang3:jar:3.7:provided[36m -- module org.apache.commons.lang3[0;1m [auto][m
+   org.apache.commons:commons-text:jar:1.4:provided[36m -- module org.apache.commons.text[0;1m [auto][m
+   org.apache.avro:avro:jar:1.7.7:provided[36m -- module avro[0;1;33m (auto)[m
+   com.thoughtworks.paranamer:paranamer:jar:2.3:provided[36m -- module paranamer[0;1;33m (auto)[m
+   com.google.re2j:re2j:jar:1.1:provided[36m -- module re2j[0;1;33m (auto)[m
+   com.google.code.gson:gson:jar:2.2.4:provided[36m -- module gson[0;1;33m (auto)[m
+   com.jcraft:jsch:jar:0.1.55:provided[36m -- module jsch[0;1;33m (auto)[m
+   org.apache.curator:curator-client:jar:4.2.0:provided[36m -- module curator.client[0;1;33m (auto)[m
+   org.apache.curator:curator-recipes:jar:4.2.0:provided[36m -- module curator.recipes[0;1;33m (auto)[m
+   com.google.code.findbugs:jsr305:jar:3.0.2:provided[36m -- module jsr305[0;1;33m (auto)[m
+   org.apache.commons:commons-compress:jar:1.19:provided[36m -- module org.apache.commons.compress[0;1m [auto][m
+   org.apache.kerby:kerb-core:jar:1.0.1:provided[36m -- module kerb.core[0;1;33m (auto)[m
+   org.apache.kerby:kerby-pkix:jar:1.0.1:provided[36m -- module kerby.pkix[0;1;33m (auto)[m
+   org.apache.kerby:kerby-asn1:jar:1.0.1:provided[36m -- module kerby.asn1[0;1;33m (auto)[m
+   org.apache.kerby:kerby-util:jar:1.0.1:provided[36m -- module kerby.util[0;1;33m (auto)[m
+   org.codehaus.woodstox:stax2-api:jar:4.2.1:provided[36m -- module org.codehaus.stax2[m
+   com.fasterxml.woodstox:woodstox-core:jar:5.3.0:provided[36m -- module com.ctc.wstx[0;1m [auto][m
+   dnsjava:dnsjava:jar:2.1.7:provided
+   org.xerial.snappy:snappy-java:jar:1.1.8.2:provided[36m -- module snappy.java[0;1;33m (auto)[m
+   org.apache.hadoop:hadoop-common:test-jar:tests:3.4.0-SNAPSHOT:test[36m -- module hadoop.common[0;1;33m (auto)[m
+   org.apache.zookeeper:zookeeper:test-jar:tests:3.5.6:test[36m -- module zookeeper[0;1;33m (auto)[m
+   org.apache.zookeeper:zookeeper-jute:jar:3.5.6:provided[36m -- module zookeeper.jute[0;1;33m (auto)[m
+   org.apache.yetus:audience-annotations:jar:0.5.0:provided[36m -- module audience.annotations[0;1;33m (auto)[m
+   org.apache.hadoop.thirdparty:hadoop-shaded-guava:jar:1.1.0-SNAPSHOT:compile[36m -- module hadoop.shaded.guava[0;1;33m (auto)[m
+   org.eclipse.jetty:jetty-server:jar:9.4.40.v20210413:compile[36m -- module org.eclipse.jetty.server[0;1m [auto][m
+   org.eclipse.jetty:jetty-http:jar:9.4.40.v20210413:compile[36m -- module org.eclipse.jetty.http[0;1m [auto][m
+   org.eclipse.jetty:jetty-io:jar:9.4.40.v20210413:compile[36m -- module org.eclipse.jetty.io[0;1m [auto][m
+   org.eclipse.jetty:jetty-util:jar:9.4.40.v20210413:compile[36m -- module org.eclipse.jetty.util[0;1m [auto][m
+   com.sun.jersey:jersey-core:jar:1.19:compile[36m -- module jersey.core[0;1;33m (auto)[m
+   javax.ws.rs:jsr311-api:jar:1.1.1:compile[36m -- module jsr311.api[0;1;33m (auto)[m
+   com.sun.jersey:jersey-server:jar:1.19:compile[36m -- module jersey.server[0;1;33m (auto)[m
+   commons-cli:commons-cli:jar:1.2:compile[36m -- module commons.cli[0;1;33m (auto)[m
+   commons-codec:commons-codec:jar:1.15:compile[36m -- module org.apache.commons.codec[0;1m [auto][m
+   commons-io:commons-io:jar:2.8.0:compile[36m -- module org.apache.commons.io[0;1m [auto][m
+   commons-logging:commons-logging:jar:1.1.3:compile[36m -- module commons.logging[0;1;33m (auto)[m
+   commons-daemon:commons-daemon:jar:1.0.13:compile[36m -- module commons.daemon[0;1;33m (auto)[m
+   log4j:log4j:jar:1.2.17:compile[36m -- module log4j[0;1;33m (auto)[m
+   com.google.protobuf:protobuf-java:jar:2.5.0:compile[36m -- module protobuf.java[0;1;33m (auto)[m
+   javax.servlet:javax.servlet-api:jar:3.1.0:compile[36m -- module javax.servlet.api[0;1;33m (auto)[m
+   junit:junit:jar:4.13.1:test[36m -- module junit[0;1m [auto][m
+   org.hamcrest:hamcrest-core:jar:1.3:test[36m -- module hamcrest.core[0;1;33m (auto)[m
+   org.mockito:mockito-core:jar:2.28.2:test[36m -- module org.mockito[0;1m [auto][m
+   net.bytebuddy:byte-buddy:jar:1.9.10:test[36m -- module net.bytebuddy[m
+   net.bytebuddy:byte-buddy-agent:jar:1.9.10:test[36m -- module net.bytebuddy.agent[m
+   org.objenesis:objenesis:jar:2.6:test[36m -- module objenesis[0;1;33m (auto)[m
+   org.slf4j:slf4j-log4j12:jar:1.7.30:provided[36m -- module slf4j.log4j12[0;1;33m (auto)[m
+   org.bouncycastle:bcprov-jdk15on:jar:1.68:test[36m -- module org.bouncycastle.provider[m
+

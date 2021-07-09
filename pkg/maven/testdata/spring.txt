@@ -1,0 +1,5 @@
+
+The following files have been resolved:
+   org.springframework:spring-jcl:jar:5.0.1.RELEASE:compile
+   org.springframework:spring-core:jar:5.0.1.RELEASE:compile
+

@@ -1,0 +1,5 @@
+
+The following files have been resolved:
+   org.springframework:spring-jcl:jar:classifier:5.0.1.RELEASE
+   org.springframework:spring-core:jar:classifier:5.0.1.RELEASE
+
